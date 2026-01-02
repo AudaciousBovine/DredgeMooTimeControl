@@ -3,7 +3,7 @@ using System.Reflection;
 using Winch.Config;
 
 // The namespace of the mod used by all the scripts to avoid naming conflicts
-namespace DredgeMooTemplate
+namespace MooTimeControl
 {
     public class Main
     {
@@ -14,7 +14,7 @@ namespace DredgeMooTemplate
         public static void Initialize()
         {
             // RUNS HARMONY PATCHES
-            new Harmony("com.AudaciousBovine.DredgeMooTemplate").PatchAll(Assembly.GetExecutingAssembly());
+            new Harmony("com.AudaciousBovine.MooTimeControl").PatchAll(Assembly.GetExecutingAssembly());
         }
     }
 }

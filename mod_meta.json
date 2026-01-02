@@ -1,9 +1,9 @@
 {
 	"Author": "AudaciousBovine",
-	"Name": "Dredge Moo Template",
-	"ModGUID": "AudaciousBovine.DredgeMooTemplate",
+	"Name": "Moo Time Control",
+	"ModGUID": "AudaciousBovine.MooTimeControl",
 	"Version": "1.0.0",
-	"ModAssembly": "DredgeMooTemplate.dll",
+	"ModAssembly": "MooTimeControl.dll",
 	"MinWinchVersion": "0.6.1",
-	"Entrypoint": "DredgeMooTemplate.Main/Initialize"
+	"Entrypoint": "MooTimeControl.Main/Initialize"
 }

@@ -1,60 +1,60 @@
 {
 	"Separator": {
 		"type": "separator",
-		"title": "DredgeMooTemplate.separator.title"
+		"title": "MooTimeControl.separator.title"
 	},
 	"Toggle": {
 		"type": "toggle",
-		"title": "DredgeMooTemplate.toggle.title",
-		"tooltip": "DredgeMooTemplate.toggle.tooltip",
+		"title": "MooTimeControl.toggle.title",
+		"tooltip": "MooTimeControl.toggle.tooltip",
 		"value": true
 	},
 	"Text": {
 		"type": "text",
-		"title": "DredgeMooTemplate.text.title",
-		"tooltip": "DredgeMooTemplate.text.tooltip",
+		"title": "MooTimeControl.text.title",
+		"tooltip": "MooTimeControl.text.tooltip",
 		"value": "Hello"
 	},
 	"Integer": {
 		"type": "integer",
-		"title": "DredgeMooTemplate.integer.title",
-		"tooltip": "DredgeMooTemplate.integer.tooltip",
+		"title": "MooTimeControl.integer.title",
+		"tooltip": "MooTimeControl.integer.tooltip",
 		"value": 22
 	},
 	"Decimal": {
 		"type": "decimal",
-		"title": "DredgeMooTemplate.decimal.title",
-		"tooltip": "DredgeMooTemplate.decimal.tooltip",
+		"title": "MooTimeControl.decimal.title",
+		"tooltip": "MooTimeControl.decimal.tooltip",
 		"value": 1.01
 	},
 	"Slider": {
 		"type": "slider",
-		"title": "DredgeMooTemplate.slider.title",
-		"tooltip": "DredgeMooTemplate.slider.tooltip",
+		"title": "MooTimeControl.slider.title",
+		"tooltip": "MooTimeControl.slider.tooltip",
 		"min": 10,
 		"max": 20,
 		"value": 15
 	},
 	"Dropdown": {
 		"type": "dropdown",
-		"title": "DredgeMooTemplate.dropdown.title",
-		"tooltip": "DredgeMooTemplate.dropdown.tooltip",
+		"title": "MooTimeControl.dropdown.title",
+		"tooltip": "MooTimeControl.dropdown.tooltip",
 		"options": [
 			"One",
 			"Two",
 			"Three"
 		],
 		"optionStrings": [
-			"DredgeMooTemplate.dropdown.option.one",
-			"DredgeMooTemplate.dropdown.option.two",
-			"DredgeMooTemplate.dropdown.option.three"
+			"MooTimeControl.dropdown.option.one",
+			"MooTimeControl.dropdown.option.two",
+			"MooTimeControl.dropdown.option.three"
 		],
 		"value": "Two"
 	},
 	"Color": {
 		"type": "color",
-		"title": "DredgeMooTemplate.color.title",
-		"tooltip": "DredgeMooTemplate.color.tooltip",
+		"title": "MooTimeControl.color.title",
+		"tooltip": "MooTimeControl.color.tooltip",
 		"options": [
 			"NEUTRAL",
 			"EMPHASIS",
